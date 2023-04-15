@@ -27,7 +27,7 @@ function App() {
         <div
           style={{ background: "black", width: "100%", height: "1px" }}
         ></div>
-        <a href="https://redirecting5.eu/p/C4kJ/MPCK/1DAT" target="_blank">
+        <a href="https://d-track0.pl/p/C4kJ/MPCK/pOtw" target="_blank">
           <div className="div">
             <a className="a1" style={{ fontSize: "25px", fontWeight: "300" }}>
               MILFFINDER
