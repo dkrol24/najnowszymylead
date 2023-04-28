@@ -129,6 +129,18 @@ function App() {
             </a>
           </div>
         </a>
+        <a href="https://d-track0.pl/p/C4kJ/CeMN/32mG" target="_blank">
+          <div className="div">
+            <a className="a1" style={{ fontSize: "25px", fontWeight: "300" }}>
+              BEZ ZOBOWIĄZAŃ program
+            </a>
+            <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
+              <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
+              <br /> Znajdź napaloną mamuśkę w okolicy i wypieprz ją teraz!!!
+            </a>
+          </div>
+        </a>
+
         <div style={{ background: "black", width: "80%", height: "1px" }}></div>
         <div style={{ background: "black", width: "80%", height: "1px" }}></div>
         <div style={{ background: "black", width: "80%", height: "1px" }}></div>
