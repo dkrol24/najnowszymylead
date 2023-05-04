@@ -129,10 +129,10 @@ function App() {
             </a>
           </div>
         </a>
-        <a href="https://d-track0.pl/p/C4kJ/CeMN/32mG" target="_blank">
+        <a href="https://redirecting5.eu/p/C4kJ/Pn8j/0rBn" target="_blank">
           <div className="div">
             <a className="a1" style={{ fontSize: "25px", fontWeight: "300" }}>
-              BEZ ZOBOWIĄZAŃ program
+              GAY DATING PROGRAM
             </a>
             <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
               <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
