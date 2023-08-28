@@ -27,7 +27,7 @@ function App() {
         <div
           style={{ background: "black", width: "100%", height: "1px" }}
         ></div>
-        <a href="https://d-track0.pl/p/C4kJ/taBX/SzzL" target="_blank">
+        <a href="https://redirecting5.eu/p/C4kJ/taBX/cQZo" target="_blank">
           <div className="div">
             <a className="a1" style={{ fontSize: "25px", fontWeight: "300" }}>
               ADULT DATING TIKTOK program
@@ -38,7 +38,7 @@ function App() {
             </a>
           </div>
         </a>
-        <a href="https://d-track0.pl/p/C4kJ/1StC/7ha0" target="_blank">
+        <a href="https://redirecting5.eu/p/C4kJ/1StC/A1SC" target="_blank">
           <div className="div">
             <a className="a1" style={{ fontSize: "25px", fontWeight: "300" }}>
               GAY DATING program
@@ -49,7 +49,7 @@ function App() {
             </a>
           </div>
         </a>
-        <a href="https://d-track0.pl/p/C4kJ/1ulQ/Dwx4" target="_blank">
+        <a href="https://redirecting5.eu/p/C4kJ/1ulQ/Dwx4" target="_blank">
           <div className="div">
             <a className="a1" style={{ fontSize: "25px", fontWeight: "300" }}>
               Adult dating sm2
