@@ -59,12 +59,6 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: "Soczyste M****",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting7.eu/p/C4kJ/KQNk/2ps3",
-  },
-  {
-    imgUrl: images.award02,
     title: "OnlyFlirts",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
     link: "https://redirecting7.eu/p/C4kJ/DMQY/ww2w",
@@ -74,6 +68,12 @@ const awards = [
     title: "Erodate",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
     link: "https://redirecting7.eu/p/C4kJ/0qNY/bfVP",
+  },
+  {
+    imgUrl: images.award02,
+    title: "Soczyste M****",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://redirecting7.eu/p/C4kJ/KQNk/2ps3",
   },
   {
     imgUrl: images.award02,
