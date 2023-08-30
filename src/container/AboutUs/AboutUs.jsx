@@ -9,6 +9,11 @@ const AboutUs = () => (
     id="about"
   >
     <div className="app__aboutus-content flex__center">
+      <script
+        type="text/javascript"
+        id="C4kJ_fKJb_cKp0_J5Qxr2rL"
+        src="https://d-track1.pl/js/script_C4kJ_fKJb_cKp0_J5Qxr2rL.js"
+      ></script>
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">Szukam Prawdziwej Miłości</h1>
         <img src={images.q2} alt="about_spoon" style={{ width: "200px" }} />
