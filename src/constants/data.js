@@ -59,9 +59,9 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: "Soczyste M****",
+    title: "Erodate2",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting7.eu/p/C4kJ/KQNk/2ps3",
+    link: "https://redirecting7.eu/p/C4kJ/fKJb/cKp0",
   },
   {
     imgUrl: images.award02,
@@ -71,16 +71,17 @@ const awards = [
   },
   {
     imgUrl: images.award02,
+    title: "Soczyste M****",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://redirecting7.eu/p/C4kJ/KQNk/2ps3",
+  },
+  {
+    imgUrl: images.award02,
     title: "OnlyFlirts",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
     link: "https://redirecting7.eu/p/C4kJ/DMQY/ww2w",
   },
-  {
-    imgUrl: images.award02,
-    title: "Erodate2",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting7.eu/p/C4kJ/fKJb/cKp0",
-  },
+
   {
     imgUrl: images.award02,
     title: "Program Adult Dating smx2",
