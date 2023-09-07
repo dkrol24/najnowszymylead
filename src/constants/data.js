@@ -103,9 +103,9 @@ const awards = [
   },
   {
     imgUrl: images.award02,
-    title: "FlirtHits",
+    title: "revolut",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/aLHC/WkhL",
+    link: "https://redirecting5.eu/p/C4kJ/MC0g/f2VF",
   },
 ];
 
