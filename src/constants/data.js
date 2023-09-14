@@ -103,9 +103,9 @@ const awards = [
   },
   {
     imgUrl: images.award02,
-    title: "revolut",
+    title: "tik",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/MC0g/f2VF",
+    link: "https://redirecting5.eu/p/C4kJ/taBX/cQZo",
   },
 ];
 
