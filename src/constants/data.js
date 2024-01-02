@@ -59,27 +59,27 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: "Erodate2",
+    title: "OF",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting7.eu/p/C4kJ/fKJb/cKp0",
+    link: "https://redirecting7.eu/p/C4kJ/DMQY/ww2w",
   },
   {
     imgUrl: images.award02,
-    title: "Erodate",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting7.eu/p/C4kJ/0qNY/bfVP",
-  },
-  {
-    imgUrl: images.award02,
-    title: "Soczyste M****",
+    title: "Soczyste Mil**",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
     link: "https://redirecting7.eu/p/C4kJ/KQNk/2ps3",
   },
   {
     imgUrl: images.award02,
-    title: "OnlyFlirts",
+    title: "TIKTOK +18",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting7.eu/p/C4kJ/DMQY/ww2w",
+    link: "https://redirecting5.eu/p/C4kJ/taBX/cQZo",
+  },
+  {
+    imgUrl: images.award02,
+    title: "ONLY FOR MEN",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://d-track0.pl/p/C4kJ/1StC/7ha0",
   },
 
   {
