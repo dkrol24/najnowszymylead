@@ -88,24 +88,35 @@ const awards = [
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
     link: "https://redirecting5.eu/p/C4kJ/GmZ7/5SsT",
   },
-
   {
     imgUrl: images.award02,
-    title: "Gay",
+    title: "Jolly",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "	https://lead5.pl/p/C4kJ/1StC/lUTf",
+    link: "https://redirecting8.eu/p/C4kJ/PP1Z/Ylx5",
   },
   {
     imgUrl: images.award02,
-    title: "SM2",
+    title: "fw2",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "	https://lead5.pl/p/C4kJ/1uIQ/vvLW",
+    link: "https://redirecting8.eu/p/C4kJ/J46T/j5A1",
   },
   {
     imgUrl: images.award02,
-    title: "tik",
+    title: "po prostu flirt",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/taBX/cQZo",
+    link: "https://redirecting5.eu/p/C4kJ/RbgM/h4ND",
+  },
+  {
+    imgUrl: images.award02,
+    title: "cyberf",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://redirecting5.eu/p/C4kJ/jRug/AjTe",
+  },
+  {
+    imgUrl: images.award02,
+    title: "flirthits",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://redirecting5.eu/p/C4kJ/aLHC/WkhL",
   },
 ];
 
