@@ -57,11 +57,18 @@ const cocktails = [
 ];
 
 const awards = [
-  {
+  /*{
     imgUrl: images.award02,
     title: "OF",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
     link: "https://redirecting7.eu/p/C4kJ/DMQY/ww2w",
+  },
+  */
+  {
+    imgUrl: images.award02,
+    title: "snapdatet",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://redirecting8.eu/p/C4kJ/4J8d/P1XW",
   },
   {
     imgUrl: images.award02,
