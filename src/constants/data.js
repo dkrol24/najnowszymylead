@@ -66,9 +66,9 @@ const awards = [
   */
   {
     imgUrl: images.award02,
-    title: "snapdatet",
+    title: "nos",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting8.eu/p/C4kJ/4J8d/P1XW",
+    link: "https://redirecting8.eu/p/C4kJ/qV9K/M9d9",
   },
   {
     imgUrl: images.award02,
