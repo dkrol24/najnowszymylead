@@ -84,16 +84,16 @@ const awards = [
   },
   {
     imgUrl: images.award02,
-    title: "ONLY FOR MEN",
+    title: "singlef",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://d-track0.pl/p/C4kJ/1StC/7ha0",
+    link: "https://d-track0.pl/p/C4kJ/e7Da/0TQ8",
   },
 
   {
     imgUrl: images.award02,
-    title: "Program Adult Dating smx2",
+    title: "flirt",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/GmZ7/5SsT",
+    link: "https://redirecting5.eu/p/C4kJ/QMFn/hRbo",
   },
   {
     imgUrl: images.award02,
@@ -103,9 +103,9 @@ const awards = [
   },
   {
     imgUrl: images.award02,
-    title: "fw2",
+    title: "bz05d",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting8.eu/p/C4kJ/J46T/j5A1",
+    link: "https://redirecting8.eu/p/C4kJ/gV9K/M9d9",
   },
   {
     imgUrl: images.award02,
@@ -115,15 +115,15 @@ const awards = [
   },
   {
     imgUrl: images.award02,
-    title: "cyberf",
+    title: "os1,3",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/jRug/AjTe",
+    link: "https://redirecting5.eu/p/C4kJ/BILA/eByB",
   },
   {
     imgUrl: images.award02,
-    title: "flirthits",
+    title: "bz1d",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/aLHC/WkhL",
+    link: "https://redirecting5.eu/p/C4kJ/zZ5L/gnSa",
   },
 ];
 
