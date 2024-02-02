@@ -66,9 +66,9 @@ const awards = [
   */
   {
     imgUrl: images.award02,
-    title: "nos",
+    title: "bz1d",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting8.eu/p/C4kJ/qV9K/M9d9",
+    link: "https://redirecting5.eu/p/C4kJ/zZ5L/gnSa",
   },
   {
     imgUrl: images.award02,
@@ -123,7 +123,7 @@ const awards = [
     imgUrl: images.award02,
     title: "bz1d",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/zZ5L/gnSa",
+    link: "",
   },
 ];
 
