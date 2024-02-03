@@ -78,9 +78,9 @@ const awards = [
   },
   {
     imgUrl: images.award02,
-    title: "TIKTOK +18",
+    title: "NOWKA",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/taBX/cQZo",
+    link: "https://redirecting5.eu/p/C4kJ/OBTm/UW8R",
   },
   {
     imgUrl: images.award02,
