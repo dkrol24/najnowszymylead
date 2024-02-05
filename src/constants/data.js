@@ -57,18 +57,35 @@ const cocktails = [
 ];
 
 const awards = [
-  /*{
-    imgUrl: images.award02,
-    title: "OF",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting7.eu/p/C4kJ/DMQY/ww2w",
-  },
-  */
   {
     imgUrl: images.award02,
-    title: "bz1d",
+    title: "po prostu flirt",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://redirecting5.eu/p/C4kJ/RbgM/h4ND",
+  },
+  {
+    imgUrl: images.award02,
+    title: "bzykrandki",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
     link: "https://redirecting5.eu/p/C4kJ/zZ5L/gnSa",
+  },
+  {
+    imgUrl: images.award02,
+    title: "dirtydating",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://redirecting5.eu/p/C4kJ/OBTm/UW8R",
+  },
+  {
+    imgUrl: images.award02,
+    title: "storyloves",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://redirecting7.eu/p/C4kJ/4g97/J6Dt",
+  },
+  {
+    imgUrl: images.award02,
+    title: "naughtyhub",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    link: "https://redirecting5.eu/p/C4kJ/Qz6n/phK7",
   },
   {
     imgUrl: images.award02,
@@ -78,9 +95,9 @@ const awards = [
   },
   {
     imgUrl: images.award02,
-    title: "NOWKA",
+    title: "Only Flirts",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/OBTm/UW8R",
+    link: "https://redirecting5.eu/p/C4kJ/DMQY/ww2w",
   },
   {
     imgUrl: images.award02,
@@ -88,42 +105,17 @@ const awards = [
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
     link: "https://d-track0.pl/p/C4kJ/e7Da/0TQ8",
   },
-
   {
     imgUrl: images.award02,
-    title: "flirt",
+    title: "smx12",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/QMFn/hRbo",
+    link: "https://redirecting8.eu/p/C4kJ/GmZ7/5SsT",
   },
   {
     imgUrl: images.award02,
-    title: "Jolly",
+    title: "tiktok",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting8.eu/p/C4kJ/PP1Z/Ylx5",
-  },
-  {
-    imgUrl: images.award02,
-    title: "bz05d",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting8.eu/p/C4kJ/gV9K/M9d9",
-  },
-  {
-    imgUrl: images.award02,
-    title: "po prostu flirt",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/RbgM/h4ND",
-  },
-  {
-    imgUrl: images.award02,
-    title: "os1,3",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "https://redirecting5.eu/p/C4kJ/BILA/eByB",
-  },
-  {
-    imgUrl: images.award02,
-    title: "bz1d",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
-    link: "",
+    link: "https://redirecting8.eu/p/C4kJ/taBX/cQZo",
   },
 ];
 
